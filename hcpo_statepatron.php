@@ -251,21 +251,7 @@
         </div>
 
 
-        <div class="col-12 col-md-4 col-lg-4">
-          <div>
-            <div class="patron_back">
-              <br>
-              <img src="office/patron_N.K.karthik.jpg" class="demo">
-
-            </div>
-            <a class="catagotie-head">
-              <h3 align="center"><span style="color:#2e3a67; font-size:24px; font-weight:bold;">N.K.Karthik</span>
-              </h3>
-            </a>
-            <div class="caption">
-            </div>
-          </div>
-        </div>
+        
         <div class="col-12 col-md-4 col-lg-4">
           <div>
             <div class="patron_back">
@@ -345,7 +331,7 @@
         </div>
 
 
-        <div class="col-12 col-md-4 col-lg-4">
+        <!-- <div class="col-12 col-md-4 col-lg-4">
           <div>
             <div class="patron_back">
               <br>
@@ -359,7 +345,7 @@
             <div class="caption">
             </div>
           </div>
-        </div>
+        </div> -->
         <div class="col-12 col-md-4 col-lg-4">
           <div>
             <div class="patron_back">
@@ -375,7 +361,7 @@
             </div>
           </div>
         </div>
-        <div class="col-12 col-md-4 col-lg-4">
+        <!-- <div class="col-12 col-md-4 col-lg-4">
           <div>
             <div class="patron_back">
               <br>
@@ -389,7 +375,7 @@
             <div class="caption">
             </div>
           </div>
-        </div>
+        </div> -->
 
 
 

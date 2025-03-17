@@ -52,47 +52,47 @@
               <h2>Service Certifications</h2>
             </div>
             <div class="row">
-              <center><img src="images/service_certificate/mayaandipatti.jpg" class="img-responsive demo" /></center>
+              <center><img src="images/service_certificate/mayaandipatti.jpg" class="img-responsive " /></center>
               <br /><br>
               <center><img src="images/service_certificate/natarajapillai_memorial_30.01.2025.jpg"
-                  class="img-responsive demo" /></center><br /><br>
+                  class="img-responsive " /></center><br /><br>
               <center><img src="images/service_certificate/children_welfare_service_04.02.2025.jpg"
-                  class="img-responsive demo" /></center><br /><br>
+                  class="img-responsive " /></center><br /><br>
               <center><img src="images/service_certificate/gov_children_house_04.02.2025.jpg"
-                  class="img-responsive demo" /></center><br /><br>
-              <center><img src="images/service_certificate/madura_college_04.02.2025.jpg" class="img-responsive demo" />
+                  class="img-responsive " /></center><br /><br>
+              <center><img src="images/service_certificate/madura_college_04.02.2025.jpg" class="img-responsive " />
               </center><br /><br>
               <center><img src="images/service_certificate/gov_womens_welfare_04.02.2025.jpg"
-                  class="img-responsive demo" /></center><br /><br>
+                  class="img-responsive " /></center><br /><br>
               <center><img src="images/service_certificate/gov_high_school_munisalai -13.2.25.jpg"
-                  class="img-responsive demo" /></center><br /><br>
+                  class="img-responsive " /></center><br /><br>
 
 
               <center><img src="images/service_certificate/International millets food festival certificate (2).jpeg"
-                  class="img-responsive demo" /></center><br /><br>
+                  class="img-responsive " /></center><br /><br>
 
 
 
 
-              <center><img src="images/service_certificate/PreambleEnglish.jpg" class="img-responsive demo" /></center>
+              <center><img src="images/service_certificate/PreambleEnglish.jpg" class="img-responsive " /></center>
               <br /><br>
-              <center><img src="images/service_certificate/PreambleTamil.jpg" class="img-responsive demo" /></center>
+              <center><img src="images/service_certificate/PreambleTamil.jpg" class="img-responsive " /></center>
               <br /><br>
-              <center><img src="images/service_certificate/Anaiyur school.jpg" class="img-responsive demo" /></center>
+              <center><img src="images/service_certificate/Anaiyur school.jpg" class="img-responsive " /></center>
               <br>
               <br>
-              <center><img src="images/service_certificate/Meenakshi clg.jpg" class="img-responsive demo" /></center>
+              <center><img src="images/service_certificate/Meenakshi clg.jpg" class="img-responsive " /></center>
               <br>
               <br>
-              <center><img src="images/service_certificate/munisalai school.jpg" class="img-responsive demo" /></center>
+              <center><img src="images/service_certificate/munisalai school.jpg" class="img-responsive " /></center>
               <br>
               <br>
-              <center><img src="images/service_certificate/Nansi.jpg" class="img-responsive demo" /></center><br>
+              <center><img src="images/service_certificate/Nansi.jpg" class="img-responsive " /></center><br>
               <br>
-              <center><img src="images/service_certificate/certificate-5.jpg" class="img-responsive demo" /></center>
+              <center><img src="images/service_certificate/certificate-5.jpg" class="img-responsive " /></center>
               <br>
               <br>
-              <center><img src="images/service_certificate/certificate-6.jpg" class="img-responsive demo" /></center>
+              <center><img src="images/service_certificate/certificate-6.jpg" class="img-responsive " /></center>
             </div> <!-- End of /.row -->
           </div> <!-- End of /.block -->
         </div> <!-- End of /.col-md-12 -->

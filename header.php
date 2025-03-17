@@ -224,8 +224,3 @@
 	</div> <!-- /.container-fluid -->
 </nav> <!-- End of /.nav -->
 
-<script>
-	document.addEventListener("contextmenu", function (event) {
-		event.preventDefault();
-	});
-</script>

@@ -52,30 +52,30 @@
 							<h2>Legal Certifications</h2>
 						</div>
 						<div class="row">
-						<center><img src="images/Unique Id of NGO darpan.jpg" class="img-responsive demo" /></center><br /><br>
-							<center><img src="images/FCRA2025_page1.jpg" class="img-responsive demo" /></center><br /><br>
-							<center><img src="images/FCRA2025_page2.jpg" class="img-responsive demo" /></center><br /><br>
-							<center><img src="images/CertificateSBI.jpg" class="img-responsive demo" /></center><br /><br>
-							<center><img src="images/certifi.jpg" class="img-responsive demo" /></center><br /><br>
-							<center><img src="images/certifi1.jpeg" class="img-responsive demo" /></center><br /><br>
-							<center><img src="images/certifi2.jpeg" class="img-responsive demo" /></center><br /><br>
-							<center><img src="images/Certificatehcpo.jpg" class="img-responsive demo" /></center><br /><br>
-							
-							<center><img src="images/csr_certificate.jpg" class="img-responsive demo" /></center><br /><br>
-							<!--<center><img src="images/certificate-1.jpg" class="img-responsive demo" /></center><br/><br>-->
+							<center><img src="images/Unique Id of NGO darpan.jpg" class="img-responsive " /></center><br /><br>
+							<center><img src="images/FCRA2025_page1.jpg" class="img-responsive " /></center><br /><br>
+							<center><img src="images/FCRA2025_page2.jpg" class="img-responsive " /></center><br /><br>
+							<center><img src="images/CertificateSBI.jpg" class="img-responsive " /></center><br /><br>
+							<center><img src="images/certifi.jpg" class="img-responsive " /></center><br /><br>
+							<center><img src="images/certifi1.jpeg" class="img-responsive " /></center><br /><br>
+							<center><img src="images/certifi2.jpeg" class="img-responsive " /></center><br /><br>
+							<center><img src="images/Certificatehcpo.jpg" class="img-responsive " /></center><br /><br>
+
+							<center><img src="images/csr_certificate.jpg" class="img-responsive " /></center><br /><br>
+							<!--<center><img src="images/certificate-1.jpg" class="img-responsive " /></center><br/><br>-->
 							<center>
-								<img src="images/LegalCertificate.jpg" class="img-responsive demo" />
+								<img src="images/LegalCertificate.jpg" class="img-responsive " />
 							</center>
 							<br />
 							<br>
-							<center><img src="images/80gnew.jpg" class="img-responsive demo" /></center><br>
+							<center><img src="images/80gnew.jpg" class="img-responsive " /></center><br>
 							<br>
-							<center><img src="images/80gnew1.jpg" class="img-responsive demo" /></center><br>
+							<center><img src="images/80gnew1.jpg" class="img-responsive " /></center><br>
 							<br>
-							<center><img src="images/certificate-4.jpg" class="img-responsive demo" /></center><br>
+							<center><img src="images/certificate-4.jpg" class="img-responsive " /></center><br>
 							<br>
-							
-							<center><img src="images/certificate-6.jpg" class="img-responsive demo" /></center>
+
+							<center><img src="images/certificate-6.jpg" class="img-responsive " /></center>
 						</div> <!-- End of /.row -->
 					</div> <!-- End of /.block -->
 				</div> <!-- End of /.col-md-12 -->
@@ -83,6 +83,11 @@
 		</div> <!-- End of /.container -->
 	</section>
 	<?php include "footer.php"; ?>
+	<script>
+		document.addEventListener("contextmenu", function (event) {
+			event.preventDefault();
+		});
+	</script>
 </body>
 
 </html>
