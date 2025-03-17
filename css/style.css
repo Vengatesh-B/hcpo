@@ -1377,6 +1377,8 @@ img.demo {
    filter: brightness(120%);
    filter: contrast(120%);
    filter: drop-shadow(10px 10px 10px #7c7a77);
+	 position: relative;
+	 left: 110px;
 }
 
 img.demo1 {
